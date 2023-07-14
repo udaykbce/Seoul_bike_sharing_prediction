@@ -48,8 +48,6 @@ Regularized linear regression:
 
 • Ridge regression
 
-• Elastic net regression
-
 Ensemble techniques:
 
 • Decision tree regression
