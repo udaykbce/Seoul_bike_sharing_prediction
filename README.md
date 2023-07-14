@@ -58,7 +58,6 @@ Ensemble techniques:
 
 • XG–Boost GridsearchCV
 
-• Regression
 
 # Conclusions:
 
