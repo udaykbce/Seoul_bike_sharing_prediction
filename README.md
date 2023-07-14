@@ -1,10 +1,11 @@
 # Seoul_bike_sharing_prediction
-The machine learning project aims to provide the bike rental company of Seoul city with accurate demand for each hour of the day, based on seasons, weather, holiday etc.
 ![image](https://github.com/udaykbce/Seoul_bike_sharing_prediction/assets/107920149/bf1a6559-960c-43a2-8df7-d65e05bb3b12)
 
-#Attribute Information:
+The machine learning project aims to provide the bike rental company of Seoul city with accurate demand for each hour of the day, based on seasons, weather, holiday, etc.
 
-Date : year-month-day
+# Attribute Information:
+
+Date: year-month-day
 
 • Rented Bike count - Count of bikes rented at each hour
 
@@ -49,7 +50,7 @@ Regularized linear regression:
 
 • Elastic net regression
 
-* Ensemble techniques:
+Ensemble techniques:
 
 • Decision tree regression
 
